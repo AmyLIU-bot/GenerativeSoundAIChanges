@@ -1,3 +1,5 @@
+**This project was originally developed as a team project.
+This fork is maintained as a personal portfolio version.**
 # IEEE Game Sound Design for Accessibility
 
 This project was a 2025 IEEE Competition entry designing sound design targeting visually impaired users in a fighting game environment 'FightingICE'. The objective is to develop spatial and functional sound design strategies that support blind and visually impaired users in experiencing a game.
